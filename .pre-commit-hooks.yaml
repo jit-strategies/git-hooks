@@ -1,0 +1,6 @@
+- id: "detect-wallet-private-key"
+  name: "Detect Wallet Private Keys"
+  description: "This hook catches wallet private keys"
+  entry: detect-wallet-private-key
+  types: [text]
+  language: "python"
